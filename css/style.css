@@ -69,3 +69,47 @@ hr {
     width: 20%;
     height: 170px;
 }
+.card-alto {
+    background-color: ghostwhite;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 20%;
+    height: 355px;
+}
+.doscards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 20%;
+    height: 170px;
+}
+.rex {
+    width: 20%;
+    margin-left: 16px;
+    margin-top: 10px;
+}
+.dexter {
+    width: 70%;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+}
+.titulorex {
+    margin-left: 16px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.pierex {
+    margin-left: 16px;
+    margin-right: 20px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+.cajadexter-stock {
+    display: flex;
+    flex-direction: row;
+}
